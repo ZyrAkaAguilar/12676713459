@@ -1,38 +1,30 @@
-[
-  {
-    "id": "zyrisland",
-    "nombre": "ZyrIsland Minigames • Temporada Oficial",
-    "tag": "EVENTO OFICIAL",
-    "imagen": "https://app.zyrisland.net/assets/backgrounds/zyrisland_background.png",
-    "icon": "https://app.zyrisland.net/assets/icons/zyrisland_icon.jpg",
-    "mc_version": "1.21.11",
-    "loader": "fabric",
-    "loader_version": "0.16.9",
-    "pack_version": "1.0.0",
-    "asset_zip_url": "https://github.com/ZyrAkaAguilar/12676713459/releases/download/v1.0.0/zyrisland-pack.zip",
-    "auto_connect": false,
-    "estado": "online",
-    "ip": "mc.zyrakaworld.net",
-    "ram_recomendada": "4 GB RAM",
-    "mods_count": 32,
-    "descripcion": "Paquete oficial con mods de optimización, resource pack zyrisland:, sonidos custom y menús interactivos."
+{
+  "zyrisland": {
+    "name": "ZyrIsland",
+    "tag": "EVENTO PRINCIPAL",
+    "version": "Java 1.21.11 | Vanilla",
+    "status": "maintenance",
+    "ip": "play.zyrisland.net",
+    "ram": "4 GB RAM",
+    "modsCount": 0,
+    "description": "Instancia oficial de ZyrIsland. Este paquete contiene adiciones extra que mejoran la experiencia de ZyrIsland Minigames | ZyrAkaTV™.",
+    "background": "assets/backgrounds/zyrisland_background.png",
+    "icon": "assets/icons/zyrisland_icon.jpg",
+    "downloadLink": "instance.html?id=zyrisland",
+    "fileUrl": "https://app.zyrisland.net/manifest/90906713-0_1.zip"
   },
-  {
-    "id": "null",
-    "nombre": "Pruebas Técnicas",
-    "tag": "DEV & EVENTOS",
-    "imagen": "https://app.zyrisland.net/assets/backgrounds/null_background.jpg",
-    "icon": "https://app.zyrisland.net/assets/icons/null_icon.jpg",
-    "mc_version": "1.21.11",
-    "loader": "fabric",
-    "loader_version": "0.16.9",
-    "pack_version": "1.0.0",
-    "asset_zip_url": "https://github.com/ZyrAkaAguilar/12676713459/releases/download/v1.0.0/test.zip",
-    "auto_connect": false,
-    "estado": "online",
-    "ip": "events.zyrisland.net",
-    "ram_recomendada": "6 GB RAM",
-    "mods_count": 45,
-    "descripcion": "Entorno oficial de eventos y grabaciones de ZyrAkaTV™ con HUD personalizado y audio posicional."
+  "null": {
+    "name": "Test Instance",
+    "tag": "ENTORNO DE PRUEBAS",
+    "version": "Java 1.21.1 • Dev Build",
+    "status": "maintenance",
+    "ip": "beta.zyrisland.net",
+    "ram": "4 GB RAM",
+    "modsCount": 18,
+    "description": "Instancia experimental para validación de mapas, recursos técnicos y pruebas de rendimiento previo a directos.",
+    "background": "assets/backgrounds/null_background.jpg",
+    "icon": "assets/icons/null_icon.jpg",
+    "downloadLink": "instance.html?id=null",
+    "fileUrl": "https://tu-servidor.com/archivos/backrooms_assets.zip"
   }
-]
+}
