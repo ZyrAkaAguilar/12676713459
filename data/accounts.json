@@ -22,6 +22,26 @@
     ]
   },
   {
+    "username": "Elgangaa",
+    "password": "8924665vv",
+    "role": "player",
+    "badge": "Fundador • ZyrAkaTV™",
+    "discord": "gangathe",
+    "banned": false,
+    "maxWarns": 3,
+    "banInfo": {
+      "type": null,
+      "caseId": null,
+      "reason": "",
+      "staff": "",
+      "date": "",
+      "expiresAt": null,
+      "appealable": false
+    },
+    "warns": [],
+    "instances": []
+  },
+  {
     "username": "UsuarioTest",
     "password": "amanecer1234",
     "role": "player",
