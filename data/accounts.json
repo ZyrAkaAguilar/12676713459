@@ -27,14 +27,14 @@
     "role": "player",
     "badge": "Fundador • ZyrAkaTV™",
     "discord": "gangathe",
-    "banned": false,
+    "banned": true,
     "maxWarns": 3,
     "banInfo": {
       "type": "permban",
-      "caseId": "BAN-2026-000",
+      "caseId": "BAN-2026-001",
       "reason": "Razon sin especificar...",
       "staff": "ZyrAkaAguilar",
-      "date": "20--/--/-- --:--",
+      "date": "2026/11/28 9:30",
       "expiresAt": "2026-11-27T23:59:59Z",
       "appealable": false
     },
