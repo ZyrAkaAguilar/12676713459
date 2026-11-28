@@ -30,12 +30,12 @@
     "banned": false,
     "maxWarns": 3,
     "banInfo": {
-      "type": null,
-      "caseId": null,
-      "reason": "",
-      "staff": "",
-      "date": "",
-      "expiresAt": null,
+      "type": "permban",
+      "caseId": "BAN-2026-000",
+      "reason": "Razon sin especificar...",
+      "staff": "ZyrAkaAguilar",
+      "date": "20--/--/-- --:--",
+      "expiresAt": "2026-11-27T23:59:59Z",
       "appealable": false
     },
     "warns": [],
