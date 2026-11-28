@@ -38,24 +38,7 @@
       "expiresAt": null,
       "appealable": false
     },
-    "warns": [
-      {
-        "id": "WRN-2026-017",
-        "reason": "Por Negro",
-        "severity": "grave",
-        "date": "2026/11/28 9:21 am",
-        "staff": "ZyrAkaAguilar",
-        "active": true
-      },
-      {
-        "id": "WRN-2026-017",
-        "reason": "Por sexy",
-        "severity": "grave",
-        "date": "2026/11/28 9:21 am",
-        "staff": "ZyrAkaAguilar",
-        "active": false
-      }
-    ],
+    "warns": [],
     "instances": [
       "zyrisland"
     ]
