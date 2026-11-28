@@ -27,7 +27,7 @@
     "role": "player",
     "badge": "Fundador • ZyrAkaTV™",
     "discord": "gangathe",
-    "banned": true,
+    "banned": false,
     "maxWarns": 3,
     "banInfo": {
       "type": "permban",
